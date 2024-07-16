@@ -1,0 +1,23 @@
+{
+  "name": "my-first-nft",
+  "version": "1.0.0",
+  "description": "My first nft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makarsokarev/my-first-nft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makarsokarev/my-first-nft/issues"
+  },
+  "homepage": "https://github.com/makarsokarev/my-first-nft#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
